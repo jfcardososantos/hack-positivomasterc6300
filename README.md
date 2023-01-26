@@ -6,8 +6,9 @@ As portas USB já estão mapeadas.
 Aceleração gráfica ativada!
 
 Problemas conhecidos: Airdrop e controle universal não funionam. São limitações naturais da interface de rede do computador.
-
+-------------------------
 Favor alterar o SMBIOS da EFI usando o iMac20,1 para usar no seu hack.
+-----------------------------
 
 Curtiu? Faça uma doação:
 PIX: jfcardososantos@gmail.com
